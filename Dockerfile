@@ -1,4 +1,4 @@
-FROM docker.io/alpine:3.11
+FROM docker.io/alpine:3.12
 
 RUN apk add --no-cache \
     iptables \
